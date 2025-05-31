@@ -1,8 +1,8 @@
 
 
-# 📜 README - Script de Spoof para SAMP
+#  README - Script de Spoof para SAMP
 
-## ❓ O que é este script?
+#❓ O que é este script?
 
 Este é um script `.bat` que executa comandos básicos de rede no Windows com o objetivo de "limpar" ou renovar sua conexão. No contexto do **SAMP**, alguns jogadores usam isso na tentativa de **mudar seu IP dinâmico** ou **resetar a conexão** com servidores, muitas vezes tentando **burlar bans temporários por IP**, ou apenas **melhorar a conexão** em alguns casos.
 
@@ -10,7 +10,7 @@ Este é um script `.bat` que executa comandos básicos de rede no Windows com o 
 
 ---
 
-## 📂 Conteúdo do Script
+# 📂 Conteúdo do Script
 
 ```bat
 @echo off
@@ -25,7 +25,7 @@ ping localhost -n 3 >nul
 exit
 ```
 
-### 🔍 Explicação linha por linha:
+# 🔍 Explicação linha por linha:
 
 | Linha                      | O que faz                                                                 |
 |---------------------------|---------------------------------------------------------------------------|
@@ -42,7 +42,7 @@ exit
 
 ---
 
-## 🧠 Considerações
+# 🧠 Considerações
 
 - Esse script só é útil **em conexões com IP dinâmico**.
 - Não muda o IP se você estiver usando uma **VPN, proxy ou IP fixo**.
@@ -50,6 +50,6 @@ exit
 
 ---
 
-## ⚠️ Aviso legal
+# ⚠️ Aviso legal
 
 Este script é apenas para **fins educacionais e técnicos**. O uso inadequado ou malicioso pode violar as regras de servidores ou termos de serviço.
